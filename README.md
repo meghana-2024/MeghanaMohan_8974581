@@ -1,1 +1,3 @@
-# MeghanaMohan_8974581
+Your name: MeghanaMohan
+Project Title: Lab 3
+Student Id: 8974581
